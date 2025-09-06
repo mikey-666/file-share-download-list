@@ -10,7 +10,9 @@
 
 + 可使用Internet Download Manager中的批量下载功能导入`.txt`文件，可结合Neat Download Manager等软件加速下载
 
-+ 当前版本为<font color= #C0C0C0>`v0.2.2`</font>
++ 同步更新：[软件分享 - mike_666](https://www.cnblogs.com/mike-666/p/18946083)
+
++ 当前版本为<font color= #C0C0C0>`v0.3.0`</font>
 
 ### 仓库展示
 
@@ -23,7 +25,8 @@
 | [file-share-1-5](https://github.com/mikey-666/file-share-1-5) | 990 MB  |
 | [file-share-1-6](https://github.com/mikey-666/file-share-1-6) | 805 MB  |
 |  [file-share-2](https://github.com/mikey-666/file-share-2)   | 715 MB  |
-| [file-share-download-list](https://github.com/mikey-666/file-share-download-list)（存储过大文件的下载链接) |  1 KB   |
+| [file-share-3-1](https://github.com/mikey-666/file-share-3-1) | 999 MB  |
+| [file-share-download-list](https://github.com/mikey-666/file-share-download-list)（存储过大文件的下载链接) |  5 KB   |
 
 ### 文件管理软件
 
@@ -49,19 +52,25 @@
 |       Dev-Cpp(TDM-GCC-4.9.2)       |     v5.11     |                      C/C++ IDE                      | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/Dev-Cpp(TDM-GCC-4.9.2)%5Bv5.11%5D.exe) |
 |            小龙Dev-Cpp             |    v5.16e     |                      C/C++ IDE                      | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/小龙Dev-Cpp%5Bv5.16e%5D.exe) |
 |             小熊猫C++              |     v1.2      |                      C/C++ IDE                      | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/小熊猫C%2B%2B%5Bv1.2%5D.txt) |
+|          VSCode          | v1.101.2 |      代码编辑器      | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/VSCode%5Bv1.101.2%5D%5Bx64%5D.txt) |
+| MinGW(SourceCode) | v11.0.0 | C/C++编程工具集 | [链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/MinGW%5BSourceCode%5D%5Bv11.0.0%5D%5Bx64%5D.7z) |
+|      MinGW(MSVCRT)       | v15.1.0  |   C/C++编程工具集    | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/MinGW%5BMSVCRT%5D%5Bv15.1.0%5D%5Bx64%5D.txt) |
+|       MinGW(UCRT)        | v15.1.0  |   C/C++编程工具集    | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/MinGW%5BUCRT%5D%5Bv15.1.0%5D%5Bx64%5D.txt) |
 |              VCredist              |       /       |     Microsoft Visual C++的可再发行组件安装程序      | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/VCredist%5Bx64%5D.exe) |
 |               Easy2d               |    v2.1.14    |                 轻量级游戏开发框架                  | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/Easy2d%5Bv2.1.14%5D.exe) |
 
 ### Git
 
-|              软件名称              |     版本      |                      软件简介                       |                             x64                              |
-| :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
-|             Git Kraken             |       /       |                    Git可视化工具                    | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/GitKraken.txt) |
-|           GitLfsWindows            |    v3.6.1     |                    Git大文件存储                    | [链接](https://raw.gitmirror.com/mikey-666/file-share-2/refs/heads/master/git-lfs-windows-v3.6.1.exe) |
+|   软件名称    |  版本  |   软件简介    |                             x64                              |
+| :-----------: | :----: | :-----------: | :----------------------------------------------------------: |
+|                Git                 |    v2.50.0    |  版本控制系统  | [链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/Git%5Bv2.50.0%5D%5Bx64%5D.7z) |
+|  Git Kraken   |   /    | Git可视化工具 | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/GitKraken.txt) |
+| Git Lfs Windows | v3.6.1 | Git大文件存储 | [链接](https://raw.gitmirror.com/mikey-666/file-share-2/refs/heads/master/git-lfs-windows-v3.6.1.exe) |
 
 ### Markdown
 |              软件名称              |     版本      |                      软件简介                       |                             x64                              |
 | :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
+|   Typora(包含破解程序)   |  v1.9.5  | Markdown可视化编辑器 | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/Typora(包含破解程序)%5Bv1.9.5%5D%5Bx64%5D.txt) |
 |             Mark Text              |    v0.17.1    |                Markdown可视化编辑器                 | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/MarkText%5B0.17.1%5D.7z) |
 |         Mark Text安装程序          |       /       |                Markdown可视化编辑器                 | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/MarkText.txt) |
 
@@ -85,12 +94,28 @@
 |             Windscribe             |    v2.15.8    |                         VPN                         | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/Windscribe%5Bv2.15.8%5D%5Bx64%5D.exe) |
 |             Proton VPN             |    v3.3.0     |                         VPN                         | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/ProtonVPN%5Bv3.3.0%5D.exe) |
 |            Tor Browser             |    v14.0.7    |        旨在保护用户隐私和匿名性的网络浏览器         | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/TorBrowser%5Bv14.0.7%5D%5Bx64%5D.txt) |
+| Clash For Windows(ikuuu) | v0.20.16 |     网络代理工具     | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/ClashForWindows(ikuuu)%5Bv0.20.16%5D.txt) |
 |                I2P                 |    v2.9.0     |                    匿名网络项目                     | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/I2P%5Bv2.9.0%5D.exe) |
+
+
+#### 浏览器
+
+|              软件名称              |     版本      |                      软件简介                       |                             x64                              |
+| :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
 |               Opera                |       /       |                       浏览器                        | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/Opera.exe) |
+|           Microsoft Edge           |       /       |     浏览器     | [链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/MicrosoftEdge.exe) |
+
+#### 在线通信
+|              软件名称              |     版本      |                      软件简介                       |                             x64                              |
+| :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
+|            QQ            | v9.9.20  |     即时通信软件     | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/QQ%5Bv9.9.20%5D%5Bx64%5D.txt) |
+|     Tencent Meeting      | v3.35.1  |      云视频会议      | [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/TencentMeeting%5Bv3.35.1%5D%5Bx64%5D.txt) |
 
 #### 下载器
 |              软件名称              |     版本      |                      软件简介                       |                             x64                              |
 | :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
+|          IDM(含激活程序)           | v6.42-build41 | 网络文件下载器 | [链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/IDM%5Bv6.42-build41%5D.7z) |
+| NeatDownloadManager | / | 网络文件下载器 | [链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/NeatDownloadManager.exe) |
 |                fdm                 |       /       |                   网络文件下载器                    | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/fdm%5Bx64%5D.exe) |
 
 #### 网盘
@@ -155,6 +180,15 @@
 | :--------------------------------: | :-----------: | :-------------------------------------------------: | :----------------------------------------------------------: |
 |              Logisim               |    v2.7.1     |                  数字逻辑电路仿真                   | [链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/Logisim%5Bv2.7.1%5D.exe) |
 
-[链接](https://raw.gitmirror.com/mikey-666/file-share-1-1/refs/heads/master/)
+[链接](https://raw.gitmirror.com/mikey-666/file-share-3-1/refs/heads/master/)
 
 [下载链接文件](https://raw.gitmirror.com/mikey-666/file-share-download-list/refs/heads/master/)
+
+#### 待加入
+
+| 软件名称  | 版本 | 软件简介 |     x64      |
+| :-------: | :--: | :------: | :----------: |
+| Windows10 |  /   | 操作系统 | file-share-3 |
+
+
+
